@@ -2,7 +2,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Particle Network Demo</title>
+  <title>CHETTAYEES</title>
   
   
       <link rel="stylesheet" href="assets/css/style.css">
