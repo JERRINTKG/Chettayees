@@ -17,3 +17,17 @@ h1 {
   right: 0;
   text-align: center;
 }
+
+h2 {
+  font-size: 1em;
+  color: white;
+  font-family: 'Merriweather', serif;
+  letter-spacing: 2px;
+  pointer-events: none;
+  font-weight: 500;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  text-align: center;
+}

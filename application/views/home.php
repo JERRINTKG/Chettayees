@@ -12,7 +12,7 @@
 
 <body>
   <h1>CHETTAYEES</h1>
-  click here for more info
+  <h2>click here</h2>
 <canvas></canvas>
   
     <script src="assets/js/index.js"></script>
