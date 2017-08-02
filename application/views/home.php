@@ -11,12 +11,12 @@
 
 <body>
   <h1>CHETTAYEES</h1>
-  <h2>Click here</h2>
+<a href="">  <h2>Click here</h2></a>
 <canvas></canvas>
 
 <script src="assets/js/index.js"></script>
 
-<!--<script src="assets/js/hover.js"></script>-->
+
 
 </body>
 </html>
