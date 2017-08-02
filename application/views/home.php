@@ -13,6 +13,7 @@
 <body>
   <h1>CHETTAYEES</h1>
   <h2>click here</h2>
+  
 <canvas></canvas>
   
     <script src="assets/js/index.js"></script>
