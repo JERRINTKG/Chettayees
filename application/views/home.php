@@ -11,7 +11,7 @@
 
 <body>
   <h1>CHETTAYEES</h1>
-<a href="">  <h2>Click here</h2></a>
+<h2><a href="http://localhost/chettayees/">  Click here</a></h2>
 <canvas></canvas>
 
 <script src="assets/js/index.js"></script>
