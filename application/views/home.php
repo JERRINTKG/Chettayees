@@ -15,14 +15,14 @@
 		<script type="text/javascript" src="assets/js/modernizr.custom.79639.js"></script> 
 		<!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
     </head>
-    <body>
+    <body background="assets/img/coc.jpg">
         <div class="container">
 		
 		
 			
 			<header>
 			
-				<h1><span>Chettayees</span>          </h1>
+				<h1><span>Chettayees</span></h1>
 				<h2>Official chettayees clan</h2>
 				
 				
@@ -43,19 +43,19 @@
 				
 					<div>
 						<span class="sb-icon icon-cog"></span>
-						<h4><span>All Settings</span></h4>
+						<h4><span> Sibi K Mathew</span></h4>
 					</div>
 					<div>
 						<span class="sb-icon icon-flight"></span>
-						<h4><span>User Modes</span></h4>
+						<h4><span>Tibin</span></h4>
 					</div>	
 					<div>
 						<span class="sb-icon icon-eye"></span>
-						<h4><span>Browse All</span></h4>
+						<h4><span>Shijin</span></h4>
 					</div>	
 					<div>
 						<span class="sb-icon icon-install"></span>
-						<h4><span>Kevin Reji Tom</span></h4>
+						<h4><span>Indian</span></h4>
 					</div>	
 					<div>
 						<span class="sb-icon icon-bag"></span>
@@ -75,15 +75,15 @@
 					</div>	
 					<div>
 						<img src="assets/img/jik.png" >
-						<h4><span>Jikku Jose</span></h4>											
+						<h4><span>Jikku Jose</span></h4>	Most powerful player										
 					</div>	
 					<div>
 						<img src="assets/img/sum.png" >
-						<h4><span>Sumin Varghese</span></h4>											
+						<h4><span>Sumin Varghese</span></h4>	Tholvi										
 					</div>
 					<div>
 						<img src="assets/img/jeb.png" >
-						<h4><span>Jebin Thomas</span></h4>											
+						<h4><span>Jebin Thomas</span></h4>Leader									
 					</div>
 					<div>
 						<h4><span>Clashers Profile</span></h4>

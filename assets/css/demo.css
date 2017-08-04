@@ -33,13 +33,14 @@
 
 body{
 	font-family: 'Open Sans Condensed','Arial Narrow', serif;
-	background-image:url(assets/img/coc.jpg) ;
 	font-weight: 400;
 	font-size: 20px;
-	color:#fff;
-	overflow: scroll;
-	overflow-x: hidden;
+	margin: 0; 
+	height: 100%; 
+	overflow: hidden;
+	
 }
+
 a{
 	color: #555;
 	text-decoration: none;
