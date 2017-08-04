@@ -82,13 +82,13 @@
 						<h4><span>Mobile Theme</span></h4>											
 					</div>
 					<div>
-						<span class="sb-icon icon-camera"></span>
-						<h4><span>Digital App</span></h4>											
+						<span class="sb-icon"><img src="assets/img/jerr.png" ></span>
+						<h4><span>Jebin Thomas</span></h4>											
 					</div>
 					<div>
-						<h4><span>Profile</span></h4>
+						<h4><span>Clashers Profile</span></h4>
 						<span class="sb-toggle">Click to open/close</span>
-						  <h5> <span>&#9876; CHETTAYEES   &#9876;</span></h5>											
+						  <h5> <span>&nbsp CHETTAYEES  </span></h5>											
 					</div>
 					
 					
