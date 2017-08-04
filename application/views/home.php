@@ -66,8 +66,8 @@
 						<h4><span>All Options</span></h4>
 					</div>	
 					<div>
-						<span class="sb-icon icon-picture"></span>
-						<h4><span>User Images</span></h4>											
+						<img src="assets/img/lin.png" >
+						<h4><span>Lintu Jacob</span></h4>											
 					</div>	
 					<div>
 						<img src="assets/img/jerr.png" >
