@@ -55,15 +55,15 @@
 					</div>	
 					<div>
 						<span class="sb-icon icon-install"></span>
-						<h4><span>Install App</span></h4>
+						<h4><span>Kevin Reji Tom</span></h4>
 					</div>	
 					<div>
 						<span class="sb-icon icon-bag"></span>
-						<h4><span>Productivity</span></h4>
+						<h4><span>Jemin Plamoottil </span></h4>
 					</div>	
 					<div>
 						<span class="sb-icon icon-globe"></span>
-						<h4><span>All Options</span></h4>
+						<h4><span>Jintu James</span></h4>
 					</div>	
 					<div>
 						<img src="assets/img/lin.png" >
@@ -75,7 +75,7 @@
 					</div>	
 					<div>
 						<img src="assets/img/jik.png" >
-						<h4><span>Jikku Jose</span></h4>Most Powerful player in the clan											
+						<h4><span>Jikku Jose</span></h4>											
 					</div>	
 					<div>
 						<img src="assets/img/sum.png" >

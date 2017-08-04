@@ -36,7 +36,7 @@ body{
 	background-image:url(assets/img/coc.jpg) ;
 	font-weight: 400;
 	font-size: 20px;
-	color:#ffffff;
+	color:#fff;
 	overflow: scroll;
 	overflow-x: hidden;
 }
