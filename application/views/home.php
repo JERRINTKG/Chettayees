@@ -70,19 +70,19 @@
 						<h4><span>User Images</span></h4>											
 					</div>	
 					<div>
-						<span class="sb-icon icon-video"></span>
-						<h4><span>User Videos</span></h4>											
+						<img src="assets/img/jerr.png" >
+						<h4><span>Jerrin Thomas</span></h4>											
 					</div>	
 					<div>
-						<span class="sb-icon icon-download"></span>
-						<h4><span>Download App</span></h4>											
+						<img src="assets/img/jik.png" >
+						<h4><span>Jikku Jose</span></h4>Most Powerful player in the clan											
 					</div>	
 					<div>
-						<span class="sb-icon icon-mobile"></span>
-						<h4><span>Mobile Theme</span></h4>											
+						<img src="assets/img/sum.png" >
+						<h4><span>Sumin Varghese</span></h4>											
 					</div>
 					<div>
-						<span class="sb-icon"><img src="assets/img/jerr.png" ></span>
+						<img src="assets/img/jeb.png" >
 						<h4><span>Jebin Thomas</span></h4>											
 					</div>
 					<div>
