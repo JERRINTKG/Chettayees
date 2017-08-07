@@ -32,7 +32,7 @@
 }
 
 body{
-	font-family: 'Open Sans Condensed','Arial Narrow', serif;
+	font-family: 'Open Sans Condensed','Comic Sans MS', serif;
 	font-weight: 400;
 	font-size: 20px;
 	margin: 0; 
@@ -76,7 +76,7 @@ a{
 	margin: 0;
 	position: relative;
 	font-weight: 300;
-	color: #524f4e;
+	color:#ffffff;
 	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
 }
 .container > header h1 span{
@@ -87,7 +87,7 @@ a{
 	font-weight: 300;
 	margin: 0;
 	padding: 15px 0 5px 0;
-	color: #888;
+	color:#333;
 	font-family: Cambria, Georgia, serif;
 	font-style: italic;
 	text-shadow: 1px 1px 1px rgba(255,255,255,0.9);

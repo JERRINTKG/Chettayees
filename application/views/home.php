@@ -18,11 +18,16 @@
     <body background="assets/img/coc.jpg">
         <div class="container">
 		
+
+<audio controls autoplay style="display:none">  
+  <source src="assets/msc/demo.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 		
 			
 			<header>
 			
-				<h1><span>Chettayees</span></h1>
+				<h1><span> &#9876; CHETTAYEES &#9876; </span></h1>
 				<h2>Official chettayees clan</h2>
 				
 				
