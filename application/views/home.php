@@ -4,10 +4,7 @@
 		<meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <title>Official chettayees clan</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <meta name="description" content="Animated Swatch Book with CSS3 and jQuery" />
-        <meta name="keywords" content="swatch book, css3, jquery, animated, rotation, transition, folding fan" />
-        <meta name="author" content="Codrops" />
+        <meta name="description" content="Chettayees clan" />
         <link rel="shortcut icon" href="../favicon.ico"> 
         <link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
         <link rel="stylesheet" type="text/css" href="assets/css/style2.css" />
@@ -60,35 +57,35 @@
 					</div>	
 					<div>
 						<span class="sb-icon icon-install"></span>
-						<h4><span>Indian</span></h4>
+						<h4><span>Indian</span></h4>Post:Co-Leader	
 					</div>	
 					<div>
 						<span class="sb-icon icon-bag"></span>
-						<h4><span>Jemin Plamoottil </span></h4>
+						<h4><span>Jemin Plamoottil </span></h4>Post:Co-Leader	
 					</div>	
 					<div>
 						<span class="sb-icon icon-globe"></span>
-						<h4><span>Jintu James</span></h4>
+						<h4><span>Jintu James</span></h4> Post:Elder Base Name:JINTU
 					</div>	
 					<div>
 						<img src="assets/img/lin.png" >
-						<h4><span>Lintu Jacob</span></h4>											
+						<h4><span>Lintu Jacob</span></h4>Post:Co-Leader		Base Name:LINTU									
 					</div>	
 					<div>
 						<img src="assets/img/jerr.png" >
-						<h4><span>Jerrin Thomas</span></h4>											
+						<h4><span>Jerrin Thomas</span></h4>	 Post:Founder & CO-Leader	Base Name:JERRY								
 					</div>	
 					<div>
 						<img src="assets/img/jik.png" >
-						<h4><span>Jikku Jose</span></h4>	Most powerful player										
+						<h4><span>Jikku Jose</span></h4>	Post:Co-Leader		Base Name:WESTERN GHATS								
 					</div>	
 					<div>
 						<img src="assets/img/sum.png" >
-						<h4><span>Sumin Varghese</span></h4>	Tholvi										
+						<h4><span>Sumin Varghese</span></h4>	Post:Co-Leader	Base Name:The Pork							
 					</div>
 					<div>
 						<img src="assets/img/jeb.png" >
-						<h4><span>Jebin Thomas</span></h4>Leader									
+						<h4><span>Jebin Thomas</span></h4>Post:Leader	Base Name:JEBIN								
 					</div>
 					<div>
 						<h4><span>Clashers Profile</span></h4>
